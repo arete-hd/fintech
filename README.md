@@ -5,5 +5,5 @@
 ### 해당3
 
 
->> stay hungry, stay foolish
+> stay hungry, stay foolish
 
